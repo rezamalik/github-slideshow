@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"When I wrote this code, only God and I understood what I did. Now only God knows."
 Use the left arrow to go back!
